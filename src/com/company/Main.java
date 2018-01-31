@@ -11,12 +11,11 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         String vardas = sc.nextLine();
+        for (int i = 0; i < 5; i++) {
 
-        System.out.println(vardas);
+            System.out.println(vardas);
 
-        System.out.println(vardas);
 
-        System.out.println(vardas);
-
+        }
     }
 }
